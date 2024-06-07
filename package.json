@@ -1,0 +1,13 @@
+{
+    "name": "meu-site-de-ia",
+    "version": "1.0.0",
+    "description": "Um site simples para mostrar projetos de inteligência artificial",
+    "main": "server/server.js",
+    "scripts": {
+      "start": "node server/server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
